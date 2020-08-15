@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundTransparent="true"
+	thumbPosition="BOTTOM"
+	showOpenButton="false"
+	indexPageName="page.html"
+	frameColor="000000"
+	thumbRows="1"
+	thumbColumns="10"
+	galleryStyle="CLASSIC"
+
+>
+  <image imageURL="images/IMG_1578.JPG"
+	thumbURL="thumbs/IMG_1578.JPG"
+	linkURL="images/IMG_1578.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1589.JPG"
+	thumbURL="thumbs/IMG_1589.JPG"
+	linkURL="images/IMG_1589.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1611.JPG"
+	thumbURL="thumbs/IMG_1611.JPG"
+	linkURL="images/IMG_1611.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1615.JPG"
+	thumbURL="thumbs/IMG_1615.JPG"
+	linkURL="images/IMG_1615.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1619.JPG"
+	thumbURL="thumbs/IMG_1619.JPG"
+	linkURL="images/IMG_1619.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1655.JPG"
+	thumbURL="thumbs/IMG_1655.JPG"
+	linkURL="images/IMG_1655.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1656.JPG"
+	thumbURL="thumbs/IMG_1656.JPG"
+	linkURL="images/IMG_1656.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1667.JPG"
+	thumbURL="thumbs/IMG_1667.JPG"
+	linkURL="images/IMG_1667.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1675.JPG"
+	thumbURL="thumbs/IMG_1675.JPG"
+	linkURL="images/IMG_1675.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1692.JPG"
+	thumbURL="thumbs/IMG_1692.JPG"
+	linkURL="images/IMG_1692.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1702.JPG"
+	thumbURL="thumbs/IMG_1702.JPG"
+	linkURL="images/IMG_1702.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1706.JPG"
+	thumbURL="thumbs/IMG_1706.JPG"
+	linkURL="images/IMG_1706.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1709.JPG"
+	thumbURL="thumbs/IMG_1709.JPG"
+	linkURL="images/IMG_1709.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1717.JPG"
+	thumbURL="thumbs/IMG_1717.JPG"
+	linkURL="images/IMG_1717.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1718.JPG"
+	thumbURL="thumbs/IMG_1718.JPG"
+	linkURL="images/IMG_1718.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1724.JPG"
+	thumbURL="thumbs/IMG_1724.JPG"
+	linkURL="images/IMG_1724.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1730.JPG"
+	thumbURL="thumbs/IMG_1730.JPG"
+	linkURL="images/IMG_1730.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1738.JPG"
+	thumbURL="thumbs/IMG_1738.JPG"
+	linkURL="images/IMG_1738.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1746.JPG"
+	thumbURL="thumbs/IMG_1746.JPG"
+	linkURL="images/IMG_1746.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1749.JPG"
+	thumbURL="thumbs/IMG_1749.JPG"
+	linkURL="images/IMG_1749.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1752.JPG"
+	thumbURL="thumbs/IMG_1752.JPG"
+	linkURL="images/IMG_1752.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1757.JPG"
+	thumbURL="thumbs/IMG_1757.JPG"
+	linkURL="images/IMG_1757.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1769.JPG"
+	thumbURL="thumbs/IMG_1769.JPG"
+	linkURL="images/IMG_1769.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1772.JPG"
+	thumbURL="thumbs/IMG_1772.JPG"
+	linkURL="images/IMG_1772.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1774.JPG"
+	thumbURL="thumbs/IMG_1774.JPG"
+	linkURL="images/IMG_1774.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1792.JPG"
+	thumbURL="thumbs/IMG_1792.JPG"
+	linkURL="images/IMG_1792.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1793.JPG"
+	thumbURL="thumbs/IMG_1793.JPG"
+	linkURL="images/IMG_1793.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1794.JPG"
+	thumbURL="thumbs/IMG_1794.JPG"
+	linkURL="images/IMG_1794.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1799.JPG"
+	thumbURL="thumbs/IMG_1799.JPG"
+	linkURL="images/IMG_1799.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1802.JPG"
+	thumbURL="thumbs/IMG_1802.JPG"
+	linkURL="images/IMG_1802.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1814.JPG"
+	thumbURL="thumbs/IMG_1814.JPG"
+	linkURL="images/IMG_1814.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1815.JPG"
+	thumbURL="thumbs/IMG_1815.JPG"
+	linkURL="images/IMG_1815.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1823.JPG"
+	thumbURL="thumbs/IMG_1823.JPG"
+	linkURL="images/IMG_1823.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1826.JPG"
+	thumbURL="thumbs/IMG_1826.JPG"
+	linkURL="images/IMG_1826.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1839.JPG"
+	thumbURL="thumbs/IMG_1839.JPG"
+	linkURL="images/IMG_1839.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1841.JPG"
+	thumbURL="thumbs/IMG_1841.JPG"
+	linkURL="images/IMG_1841.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1853.JPG"
+	thumbURL="thumbs/IMG_1853.JPG"
+	linkURL="images/IMG_1853.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1860.JPG"
+	thumbURL="thumbs/IMG_1860.JPG"
+	linkURL="images/IMG_1860.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1864.JPG"
+	thumbURL="thumbs/IMG_1864.JPG"
+	linkURL="images/IMG_1864.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1888.JPG"
+	thumbURL="thumbs/IMG_1888.JPG"
+	linkURL="images/IMG_1888.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1913.JPG"
+	thumbURL="thumbs/IMG_1913.JPG"
+	linkURL="images/IMG_1913.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1929.JPG"
+	thumbURL="thumbs/IMG_1929.JPG"
+	linkURL="images/IMG_1929.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1951.JPG"
+	thumbURL="thumbs/IMG_1951.JPG"
+	linkURL="images/IMG_1951.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1952.JPG"
+	thumbURL="thumbs/IMG_1952.JPG"
+	linkURL="images/IMG_1952.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1973.JPG"
+	thumbURL="thumbs/IMG_1973.JPG"
+	linkURL="images/IMG_1973.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1974.JPG"
+	thumbURL="thumbs/IMG_1974.JPG"
+	linkURL="images/IMG_1974.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1978.JPG"
+	thumbURL="thumbs/IMG_1978.JPG"
+	linkURL="images/IMG_1978.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1999.JPG"
+	thumbURL="thumbs/IMG_1999.JPG"
+	linkURL="images/IMG_1999.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2001.JPG"
+	thumbURL="thumbs/IMG_2001.JPG"
+	linkURL="images/IMG_2001.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2002.JPG"
+	thumbURL="thumbs/IMG_2002.JPG"
+	linkURL="images/IMG_2002.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

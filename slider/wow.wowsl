@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>7.2</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>false</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FullScreen>false</FullScreen>
+            <GalleryName>wow</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>basic</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/twist/</ImageTemplate>
+            <ImageTemplateName>Twist</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PageBgColor>#ffffff</PageBgColor>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Georges/Google Drive/Website/Desktop/slider/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/Georges/Google Drive/Website/Desktop/slider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>true</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <SwipeSupport>1</SwipeSupport>
+            <TemplateFont>PT Sans</TemplateFont>
+            <TemplateName>twist</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>1</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Georges/Google Drive/2014 Season/Shooting.jpg</url>
+                <title>Shooting</title>
+                <filesize>2588575</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Georges/Downloads/2016 Team Photo.jpg</url>
+                <title>2016 Team Photo</title>
+                <filesize>288787</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Georges/Downloads/2016 Team Photo Fun 1.jpg</url>
+                <title>2016 Team Photo Fun 1</title>
+                <filesize>277976</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Georges/Google Drive/2014 Season/Photos/Pine Tree/DSC_5566.jpg</url>
+                <title>DSC_5566</title>
+                <filesize>165575</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Georges/Google Drive/2014 Season/Photos/Pine Tree/DSC_5590.jpg</url>
+                <title>DSC_5590</title>
+                <filesize>141183</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Georges/Downloads/2016 Team Photo Fun 2.jpg</url>
+                <title>2016 Team Photo Fun 2</title>
+                <filesize>277034</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Georges/Google Drive/2014 Season/Photos/Pine Tree/DSC_5666.jpg</url>
+                <title>DSC_5666</title>
+                <filesize>159828</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

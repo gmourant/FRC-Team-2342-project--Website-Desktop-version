@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	thumbRows="1"
+	thumbColumns="10"
+	showOpenButton="false"
+	showFullscreenButton="false"
+	frameColor="000000"
+	backgroundColor="FFFFFF"
+	galleryHeight="100%"
+	galleryStyle="CLASSIC"
+
+>
+  <image imageURL="images/aasha.jpg"
+	thumbURL="thumbs/aasha.jpg"
+	linkURL="images/aasha.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Aasha! I have been on the team for two years. I joined the team because I love power tools. My job on the team is business co-lead. My goal for this year is to raise enough money through sponsorships and fundraisers to turn our focus outward and help the community. The biggest challenge was scouting, and I solved it by working with teammates to develop a better system. Some of my hobbies are cooking, sewing, running, Zumba, math, country music, power tools, chemistry, gardening, knitting, and being with the people I love. I came back this year because I was so excited to organize the business subteam to help the community. My favorite quote is, “Promise me you’ll always remember you’re braver than you believe, smarter than you think, and love more than you know”. To me, being on this team means that it is a place for me to be myself. It has helped me to become a leader. I surprise myself when I spend time with my teammates. I love working with everyone to create something that is greater than the sum of its parts. After all, that is what a team is.]]></caption>
+  </image>
+  <image imageURL="images/akash.png"
+	thumbURL="thumbs/akash.jpg"
+	linkURL="images/akash.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Akash! This is currently my second year on the team and I joined because of all of my friends are here. Right now I am in the coding subteam although last year I was in business. My ultimate goal for this year on FRC is to have fun and become a better programmer. One of my favorite memories was when we played the card game mao and Magic the Gathering at competitions. A very fun hobby I have and people on the team have is Magic the Gathering. I came back for the fun of FRC and my friends.]]></caption>
+  </image>
+  <image imageURL="images/amber.png"
+	thumbURL="thumbs/amber.jpg"
+	linkURL="images/amber.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Amber D! This is my first year on the team. I am on the business subteam. My goal for this year is to learn more about robots and develop teamwork skills. My favorite memory on the team is writing this bio. Some of my hobbies are singing, writing, and reading. My favorite quote is “Fiction is a lie, and good fiction is the truth inside the lie.” and my favorite book is The Outsiders. Being on this team means to me learning to become a family.]]></caption>
+  </image>
+  <image imageURL="images/avonlea.png"
+	thumbURL="thumbs/avonlea.jpg"
+	linkURL="images/avonlea.png"
+	linkTarget="_blank">
+    <caption><![CDATA[This is my first year on the team. I joined because it sounded like fun. I’m on both the Mech and the Business subteams. My goal for this year is to help build a robot. Some of my hobbies include writing, singing, playing guitar, and flute. My favorite movie is God’s not Dead, and to me, being on this team means building a robot.]]></caption>
+  </image>
+  <image imageURL="images/becca.png"
+	thumbURL="thumbs/becca.jpg"
+	linkURL="images/becca.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Becca S! This is my second year on the team. I joined the team because my brother wanted me to. My job for the team is to do art and fundraising. My two goals for this year is the team spirit and imagery awards. My favorite memory is when I met my best friend (Karina). My biggest challenge was doing research and I solved it by having someone (Karina) help me. My hobby is drawing. I came back this year because it can help me through everyday life and can help me for when I get a job. And I also get to be with friends. My favorite game is manhunt. Being on the team to me means that I can learn something new every day and see the awesome friends I’ve made. ]]></caption>
+  </image>
+  <image imageURL="images/ben-b.jpg"
+	thumbURL="thumbs/ben-b.jpg"
+	linkURL="images/ben-b.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Ben B! This is my first year on the team. I joined because I saw a competition and thought it looked really cool. I’m a coder on the team. My goal this year is to learn how to code and to be able to do it well. My favorite memory so far is getting code to actually work. In my free time I enjoy reading literature. My absolute favorite movie series is Star Wars. Being on this team means having fun, learning to code, and working together as a team.]]></caption>
+  </image>
+  <image imageURL="images/ben-f.png"
+	thumbURL="thumbs/ben-f.jpg"
+	linkURL="images/ben-f.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Ben F! This is my first year on the team and I joined Team Phoenix because I was extremely excited and interested in joining robotics. I’m on the mech team and currently I build prototypes and the final robot along with the rest of my subteam. My goal this year is to learn by doing hands on projects and work for my team. I love to BUILD STUFF and study/work with aeronautical engineering. Being on Team Phoenix means that I get to be part of an even larger team than I’m used to. ]]></caption>
+  </image>
+  <image imageURL="images/ben-g.png"
+	thumbURL="thumbs/ben-g.jpg"
+	linkURL="images/ben-g.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Ben! This is my first year on the team. I joined because I felt that it’d broaden my experiences in the world outside of school. I am on the coding subteam. My goal this year is to greatly enhance my coding with C++. I like coding, reading, snacking. Being on this team means spending most of my freetime talking with great people and having real-world experiences. This has certainly been a positive experience. ]]></caption>
+  </image>
+  <image imageURL="images/ben-nf.png"
+	thumbURL="thumbs/ben-nf.jpg"
+	linkURL="images/ben-nf.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Benjamin! This is my second year on the team. I joined the team because I always liked robots and I thought it would be fun to do after school. My job is coding sub-lead (Provide snarky comments, dry humor and provides fabulous hair). My main goals are to go worlds again, teach coding, having fun and not dying in freak code related accident. My favorite memory is when we tested autonomous and it went diagonally backwards and charged are team lead (Sabra). The biggest challenge I faced on the team was making autonomous work, and I solved it by putting hours of work into it. Some of my hobbies are robotics, guitar, soccer, computer science, dancing, and asking Fiona for my glasses back. What made me come back this year was that I had a ton of fun last year and I wanted to learn more about robots. To me, being on this team means teaching people, having fun, building robots, obnoxious late nights, and midnight DQ visits.]]></caption>
+  </image>
+  <image imageURL="images/brin.png"
+	thumbURL="thumbs/brin.jpg"
+	linkURL="images/brin.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Brin! I have been on the team for two years. I joined to learn more about programming computers and engineering. My goal for the team is to learn even more about robots and programming and to hopefully make it to Worlds again. My favorite memory was when the robot malfunctioned in funny ways (running into the wall, etc.). The biggest challenge I’ve had to face was learning C++ really quickly, but I solved it by studying on my own. I love playing piano and reading. I also really love math! I came back this year because I wanted to build more cool robots and continue to learn. My favorite movie is Beauty and the Beast and my favorite book is The Great Gatsby. I love being on the team because I get to learn a bunch and have fun with an awesome end result (a robot). ]]></caption>
+  </image>
+  <image imageURL="images/bryce.jpg"
+	thumbURL="thumbs/bryce.jpg"
+	linkURL="images/bryce.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Bryce S! This is my third year on the team and have spent them in the glorious subteam that is business. I love robots and the thrill of the competition. My goal is to have the most fun I can with my team and experience something new at every corner. My favorite moment was when we scored the highest score in the competition last year and came first in one of the qualifiers. My favorite book is 1984 by George Orwell. One of my hobbies is to debate especially about politics. ]]></caption>
+  </image>
+  <image imageURL="images/conor.png"
+	thumbURL="thumbs/conor.jpg"
+	linkURL="images/conor.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Connor T! This is currently my second year on the team and second year in the coding subteam. My goal and ambition to join Robotics was to learn how to code. My favorite memory was going to the World’s competition in St. Louis where I played as a human player during the matches. Learning new languages of code and being able to accomplish writing it. My hobbies include video games, soccer, snowboarding, and skiing. Being on this team means being surrounded by wonderful friends. ]]></caption>
+  </image>
+  <image imageURL="images/darius.png"
+	thumbURL="thumbs/darius.jpg"
+	linkURL="images/darius.png"
+	linkTarget="_blank">
+    <caption><![CDATA[My name is Darius! This is my first year on the team. I do work on both the coding and business subteams. My goal for this year is to learn more about the business subteam. My favorite memory from the team was when I had to do an on the spot presentation about rocks. My biggest challenge this year has been writing a compiler, I am still working on this. One of my hobbies is programing. Some of my favorite games include the Halo series as well as the Elder Scrolls. To me, this team means education and fun. ]]></caption>
+  </image>
+  <image imageURL="images/devony.png"
+	thumbURL="thumbs/devony.jpg"
+	linkURL="images/devony.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi my name is Devony W! I’ve been on this team for 4 years, and I joined because my mom left me here. I’m the mech subteam leader, and my goal this year is to learn more. My favorite memory is every time we epically fail at prototyping. One of the biggest challenges we faced was our lack of communication and cohesiveness as a team. I remember one night in particular when we had plenty of students but no one knew what needed to get done. The next year I became a lead and was lucky enough to be part of finding a solution. If I had to pick a favorite book, it would be a toss up between The Book Thief and Free to Be You and Me. Being on this team means having the hardest fun ever.]]></caption>
+  </image>
+  <image imageURL="images/dinitri.png"
+	thumbURL="thumbs/dinitri.jpg"
+	linkURL="images/dinitri.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Dimitri! This is my first year on the team. I joined because I like building robots, it’s really cool. I am on the wiring team. My goal is to build an awesome robot. I like to build model bikes and I also like skateboarding. My favorite movie is The Wizard of Oz. Being on this team gives me a chance to work with robots and I think that’s awesome. ]]></caption>
+  </image>
+  <image imageURL="images/drake.jpg"
+	thumbURL="thumbs/drake.png"
+	linkURL="images/drake.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Drake! I am 14 years old and this is currently my first year on Team Phoenix. I reside on the coding subteam and I am very interested in learning about FRC, specifically coding languages.]]></caption>
+  </image>
+  <image imageURL="images/emilie.png"
+	thumbURL="thumbs/emilie.png"
+	linkURL="images/emilie.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi my name is Emilie T! This is my first year on the team (I was on team 151 for three years prior).I joined because I wanted to keep on doing robotics, and I knew Mr. N. I am on the Mechanical subteam. My goal for this year is to build a good bot and have fun. Some of my hobbies are 3D printing, music, and dancing. My favorite book is Ready Player One by Ernest Cline. To me, being on this team means that Phoenix isn’t only a place where you meet up and build robots, it’s a place where you make lifelong friends and memories. Phoenix is the best home away from home anyone could ask for.  ]]></caption>
+  </image>
+  <image imageURL="images/eric.png"
+	thumbURL="thumbs/eric.jpg"
+	linkURL="images/eric.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Eric C! I joined this team for fun. I am on the wiring subteam. My goal is to learn new things. I enjoy playing with Legos. My favorite video game is Halo. ]]></caption>
+  </image>
+  <image imageURL="images/ethan.png"
+	thumbURL="thumbs/ethan.png"
+	linkURL="images/ethan.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Ethan! I’ve been on this team for one year. I was bribed at Five Guys, so I ended up joining. My goal is to go to St. Louis. A challenge I faced was missing lots of meetings, but things changed after I got my licence. Some of my hobbies are being outside, mechanics, sports, PCs, and doing stuff with people. I like playing Hunt for Red October and Truth or Dare. Being on this team means meeting new people, building robots, and doing fun stuff. ]]></caption>
+  </image>
+  <image imageURL="images/evelyn.png"
+	thumbURL="thumbs/evelyn.jpg"
+	linkURL="images/evelyn.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Evelyn S! This is my second year on the team. I joined because building robots sounded very exciting! I design artwork for the team. My goal this year is to design all the artwork, plus more. Getting to see my artwork on the robot was one of the most exciting moments for me. I think the biggest challenge I’ve had to face was making phoenix fire, but I overcame it thanks to internet tutorials. My favorite movie is Jurassic Park. I love being on this team!]]></caption>
+  </image>
+  <image imageURL="images/fiona.png"
+	thumbURL="thumbs/fiona.jpg"
+	linkURL="images/fiona.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Fiona! This is my first year on the team. I joined to learn more about computer science. My job is to provide a feminine influence to the coding team. My goal for this year is to finally learn coding. My favorite memory on the team is going to Dairy Queen after robotics (what happens at DQ stays at DQ). Some of my hobbies are piano, saxophone, guitar, bass, acting, singing, robotics, schoolwork, technology, student association, Granite State Challenge, yearbook club, co-president of Student Council, cheese tasting, and stealing Ben’s glasses. My favorite quote is “Happiness can be found in the darkest times, when one only remembers to turn on the light.” To me, being on this team means friendship and self-improvement.]]></caption>
+  </image>
+  <image imageURL="images/frederick.jpg"
+	thumbURL="thumbs/frederick.jpg"
+	linkURL="images/frederick.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi my name is Frederick! This is my first year and I joined this team because I am interested in robotics and engineering in general.  My goal this year is to gain experience in coding and CAD.  Some of my favorite hobbies are programming, games, and math.  Being on this team will give me great opportunities to learn.]]></caption>
+  </image>
+  <image imageURL="images/georges.png"
+	thumbURL="thumbs/georges.jpg"
+	linkURL="images/georges.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Georges M! This is my fourth year on the team. I joined because of parental command. I am the Systems lead. My goal for this year is to train a replacement for myself. My favorite memory on the team was playing foosball with one of my friends. I also enjoy web-design. My favorite movies are the Lord of the Rings trilogy. Being on this team is a part of my identity and helps me feel grounded.]]></caption>
+  </image>
+  <image imageURL="images/georgia.jpg"
+	thumbURL="thumbs/georgia.jpg"
+	linkURL="images/georgia.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi my name is Georgia G! This is my second year on the team, I joined because my school didn’t have a FIRST team, and my favorite person is Sabra (our team lead ). I’m currently on the electrical subteam and I occasionally help the Mechanical subteam. My goal for this year is to help more. My favorite memory is beating my friend ( Nick Zumbo ) at foosball during our annual team Christmas party. The biggest challenge for me was not speaking up and participating more, I’m still learning  to  speak up when I don’t know something. Some of my hobbies are soccer, track, piano, and guitar. I came back this year because of all the awesome people I met, and what I did learn was very useful and helped me a lot. In my spare time I like to read science fiction books, and music, as well as fantasy and action. To me being on the team means actually doing things and not just saying you helped when you stood there and watched.]]></caption>
+  </image>
+  <image imageURL="images/ian-a.png"
+	thumbURL="thumbs/ian-a.jpg"
+	linkURL="images/ian-a.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Ian A! This is my second year on the team. I joined because a couple of my friends who were on the team convinced me to join, and I was not disappointed. My job is working on the Mechanical subteam and training to be next year’s safety captain. My goal for this year is to become better at metalwork and train to be our safety captain for next year. My favorite memory is going to the competitions. My biggest challenge was designing a prototype for a tote dragger on last year’s robot. Some of my hobbies are hiking, skiing, sailing and traveling. I came back because I love my teammates and watching how the robot comes together over the build season. I also love to contribute towards the completion of a robot. To me, being on this team means that I can contribute to building an awesome robot with awesome friends.]]></caption>
+  </image>
+  <image imageURL="images/ian-c.jpg"
+	thumbURL="thumbs/ian-c.jpg"
+	linkURL="images/ian-c.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Ian C!This is my first year on the team. I joined because I like robots. I am on the Coding subteam. I want to be able to write code that goes on the robot. I play guitar and like to make robots. Being on this team makes me feel that I’m a part of something big.]]></caption>
+  </image>
+  <image imageURL="images/isaac.png"
+	thumbURL="thumbs/isaac.jpg"
+	linkURL="images/isaac.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Isaac G!This is my first year on the team. I decided to join because it looked pretty fun. I enjoy building stuff for the team. This year, I hope to have a lot of fun. I enjoy PC building and watching Star Wars. My favorite part of being on this team is seeing my friends and having fun.]]></caption>
+  </image>
+  <image imageURL="images/john.png"
+	thumbURL="thumbs/john.png"
+	linkURL="images/john.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is John! This is my third year on the team. I joined because I enjoy engineering and have participated in FIRST since FLL. I enjoy CAD and am on the Mechanical subteam. My goal is to contribute to the design of the robot and to help new students learn CAD. My favorite memory is when we were at the NE District Championships and we found out we made it to St. Louis. The biggest challenge was learning CAD. All of the mentors were great with helping me and now I enjoy CAD. I enjoy cars, video games, and aviation. I keep coming back because I love learning new things and having fun. Being on this team means to me that I am able to further my interests in engineering in a fun and friendly environment.]]></caption>
+  </image>
+  <image imageURL="images/jason.png"
+	thumbURL="thumbs/jason.jpg"
+	linkURL="images/jason.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Hi, my name is Jason D! I’ve been on the team for two years. I joined because I like robotics. I am on the wiring subteam. My goal this year is to have fun. My favorite part of being on the team is getting to go to the competitions. Besides robotics, I really enjoy playing with Legos. I also love playing on my Xbox, especially games like Halo. Being on this team means that I can have a lot of fun.]]></caption>
+  </image>
+</simpleviewergallery>

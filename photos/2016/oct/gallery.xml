@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="FFFFFF"
+	galleryStyle="CLASSIC"
+	frameColor="000000"
+	thumbColumns="10"
+	thumbRows="1"
+	thumbPosition="BOTTOM"
+	showOpenButton="false"
+	indexPageName="page.html"
+
+>
+  <image imageURL="images/Copy of DSC_0552.JPG"
+	thumbURL="thumbs/Copy of DSC_0552.JPG"
+	linkURL="images/Copy of DSC_0552.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0554.JPG"
+	thumbURL="thumbs/Copy of DSC_0554.JPG"
+	linkURL="images/Copy of DSC_0554.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0557.JPG"
+	thumbURL="thumbs/Copy of DSC_0557.JPG"
+	linkURL="images/Copy of DSC_0557.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0558.JPG"
+	thumbURL="thumbs/Copy of DSC_0558.JPG"
+	linkURL="images/Copy of DSC_0558.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0559 (1).JPG"
+	thumbURL="thumbs/Copy of DSC_0559 (1).JPG"
+	linkURL="images/Copy of DSC_0559 (1).JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0559.JPG"
+	thumbURL="thumbs/Copy of DSC_0559.JPG"
+	linkURL="images/Copy of DSC_0559.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0561.JPG"
+	thumbURL="thumbs/Copy of DSC_0561.JPG"
+	linkURL="images/Copy of DSC_0561.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0566.JPG"
+	thumbURL="thumbs/Copy of DSC_0566.JPG"
+	linkURL="images/Copy of DSC_0566.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0574.JPG"
+	thumbURL="thumbs/Copy of DSC_0574.JPG"
+	linkURL="images/Copy of DSC_0574.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0587.JPG"
+	thumbURL="thumbs/Copy of DSC_0587.JPG"
+	linkURL="images/Copy of DSC_0587.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0605.JPG"
+	thumbURL="thumbs/Copy of DSC_0605.JPG"
+	linkURL="images/Copy of DSC_0605.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0606.JPG"
+	thumbURL="thumbs/Copy of DSC_0606.JPG"
+	linkURL="images/Copy of DSC_0606.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0576.JPG"
+	thumbURL="thumbs/DSC_0576.JPG"
+	linkURL="images/DSC_0576.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0590.JPG"
+	thumbURL="thumbs/DSC_0590.JPG"
+	linkURL="images/DSC_0590.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	galleryStyle="CLASSIC"
+	textColor="FFFFFF"
+	frameColor="000000"
+	thumbPosition="BOTTOM"
+	thumbColumns="10"
+	thumbRows="1"
+	showOpenButton="false"
+	indexPageName="page.html"
+
+>
+  <image imageURL="images/Copy of DSC_0016.JPG"
+	thumbURL="thumbs/Copy of DSC_0016.JPG"
+	linkURL="images/Copy of DSC_0016.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0017.JPG"
+	thumbURL="thumbs/Copy of DSC_0017.JPG"
+	linkURL="images/Copy of DSC_0017.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0046.JPG"
+	thumbURL="thumbs/Copy of DSC_0046.JPG"
+	linkURL="images/Copy of DSC_0046.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0055.JPG"
+	thumbURL="thumbs/Copy of DSC_0055.JPG"
+	linkURL="images/Copy of DSC_0055.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0056.JPG"
+	thumbURL="thumbs/Copy of DSC_0056.JPG"
+	linkURL="images/Copy of DSC_0056.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0086.JPG"
+	thumbURL="thumbs/Copy of DSC_0086.JPG"
+	linkURL="images/Copy of DSC_0086.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0092.JPG"
+	thumbURL="thumbs/Copy of DSC_0092.JPG"
+	linkURL="images/Copy of DSC_0092.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0098.JPG"
+	thumbURL="thumbs/Copy of DSC_0098.JPG"
+	linkURL="images/Copy of DSC_0098.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of DSC_0099.JPG"
+	thumbURL="thumbs/Copy of DSC_0099.JPG"
+	linkURL="images/Copy of DSC_0099.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0012.JPG"
+	thumbURL="thumbs/DSC_0012.JPG"
+	linkURL="images/DSC_0012.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0031.JPG"
+	thumbURL="thumbs/DSC_0031.JPG"
+	linkURL="images/DSC_0031.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0032.JPG"
+	thumbURL="thumbs/DSC_0032.JPG"
+	linkURL="images/DSC_0032.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

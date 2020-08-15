@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+  <head>
+    <title>Mini-Build Game Day Live Display</title>
+	<style>
+*
+{
+margin:0 auto 0 auto;
+text-align:left;
+}
+
+body
+{
+font:14px Arial, sans-serif;
+color:black;
+}
+
+html, body { height: 100% }
+	</style>
+  </head>
+  <body>
+    <iframe src="/scores" width="55%" height="99%" frameborder="0" scrolling="no" border="none" style="float:left;"></iframe>
+	<iframe src="/rankings" width="45%" height="42%" frameborder="0" scrolling="no" border="none"></iframe>
+	<p style="text-indent:10px;height:10%;margin:5px;margin-top:10px;font-size:30px;font-weight:bold;">Current Match: <input value="NULL" size="5" style="font-size:30px;font-weight:bold;"></p>
+	<p style="height:2%;margin:5px;text-align:center;">&darr;&nbsp;&nbsp;Scan for Rankings&nbsp;&nbsp;&darr;</p>
+	<img src="/special/images/Rankings%20QR%20Code.png" height="40%" width="auto" style="text-align:center;display:block;">
+	<p style="height:1%;text-align:center;font-size:12px;">www.team2342.org/rankings</p>
+  </body>
+</html>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	resizeOnImport="false"
+	useFlickr="false"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	backgroundTransparent="true"
+	showOpenButton="false"
+	frameColor="000000"
+	thumbColumns="10"
+	thumbRows="1"
+	indexPageName="page.html"
+	galleryStyle="CLASSIC"
+
+>
+  <image imageURL="images/IMG_20130218_194642.jpg"
+	thumbURL="thumbs/IMG_20130218_194642.jpg"
+	linkURL="images/IMG_20130218_194642.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2013-02-17 18.05.16.jpg"
+	thumbURL="thumbs/2013-02-17 18.05.16.jpg"
+	linkURL="images/2013-02-17 18.05.16.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130203_173356.jpg"
+	thumbURL="thumbs/IMG_20130203_173356.jpg"
+	linkURL="images/IMG_20130203_173356.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130203_173439.jpg"
+	thumbURL="thumbs/IMG_20130203_173439.jpg"
+	linkURL="images/IMG_20130203_173439.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130203_173401.jpg"
+	thumbURL="thumbs/IMG_20130203_173401.jpg"
+	linkURL="images/IMG_20130203_173401.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130203_174308.jpg"
+	thumbURL="thumbs/IMG_20130203_174308.jpg"
+	linkURL="images/IMG_20130203_174308.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130203_174326.jpg"
+	thumbURL="thumbs/IMG_20130203_174326.jpg"
+	linkURL="images/IMG_20130203_174326.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130218_173539.jpg"
+	thumbURL="thumbs/IMG_20130218_173539.jpg"
+	linkURL="images/IMG_20130218_173539.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130218_194629.jpg"
+	thumbURL="thumbs/IMG_20130218_194629.jpg"
+	linkURL="images/IMG_20130218_194629.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130212_200526.jpg"
+	thumbURL="thumbs/IMG_20130212_200526.jpg"
+	linkURL="images/IMG_20130212_200526.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130212_200536.jpg"
+	thumbURL="thumbs/IMG_20130212_200536.jpg"
+	linkURL="images/IMG_20130212_200536.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130212_200557.jpg"
+	thumbURL="thumbs/IMG_20130212_200557.jpg"
+	linkURL="images/IMG_20130212_200557.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130212_200559.jpg"
+	thumbURL="thumbs/IMG_20130212_200559.jpg"
+	linkURL="images/IMG_20130212_200559.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130212_200603.jpg"
+	thumbURL="thumbs/IMG_20130212_200603.jpg"
+	linkURL="images/IMG_20130212_200603.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130212_200617.jpg"
+	thumbURL="thumbs/IMG_20130212_200617.jpg"
+	linkURL="images/IMG_20130212_200617.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130212_200629.jpg"
+	thumbURL="thumbs/IMG_20130212_200629.jpg"
+	linkURL="images/IMG_20130212_200629.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130212_200645.jpg"
+	thumbURL="thumbs/IMG_20130212_200645.jpg"
+	linkURL="images/IMG_20130212_200645.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20130218_194624.jpg"
+	thumbURL="thumbs/IMG_20130218_194624.jpg"
+	linkURL="images/IMG_20130218_194624.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

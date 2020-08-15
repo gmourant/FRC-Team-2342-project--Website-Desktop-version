@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	backgroundTransparent="true"
+	showOpenButton="false"
+	thumbRows="1"
+	thumbColumns="10"
+	frameColor="000000"
+	indexPageName="page.html"
+	galleryStyle="CLASSIC"
+
+>
+  <image imageURL="images/prototyping.jpg"
+	thumbURL="thumbs/prototyping.jpg"
+	linkURL="images/prototyping.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/prototyping2.jpg"
+	thumbURL="thumbs/prototyping2.jpg"
+	linkURL="images/prototyping2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/prototyping3.jpg"
+	thumbURL="thumbs/prototyping3.jpg"
+	linkURL="images/prototyping3.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/prototyping4.jpg"
+	thumbURL="thumbs/prototyping4.jpg"
+	linkURL="images/prototyping4.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/prototyping5.jpg"
+	thumbURL="thumbs/prototyping5.jpg"
+	linkURL="images/prototyping5.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/prototyping6.jpg"
+	thumbURL="thumbs/prototyping6.jpg"
+	linkURL="images/prototyping6.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/prototyping7.jpg"
+	thumbURL="thumbs/prototyping7.jpg"
+	linkURL="images/prototyping7.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/prototyping8.jpg"
+	thumbURL="thumbs/prototyping8.jpg"
+	linkURL="images/prototyping8.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/prototyping9.jpg"
+	thumbURL="thumbs/prototyping9.jpg"
+	linkURL="images/prototyping9.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/prototyping10.jpg"
+	thumbURL="thumbs/prototyping10.jpg"
+	linkURL="images/prototyping10.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/prototyping11.jpg"
+	thumbURL="thumbs/prototyping11.jpg"
+	linkURL="images/prototyping11.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/prototyping12.jpg"
+	thumbURL="thumbs/prototyping12.jpg"
+	linkURL="images/prototyping12.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/prototyping13.jpg"
+	thumbURL="thumbs/prototyping13.jpg"
+	linkURL="images/prototyping13.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/prototyping14.jpg"
+	thumbURL="thumbs/prototyping14.jpg"
+	linkURL="images/prototyping14.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/prototyping15.jpg"
+	thumbURL="thumbs/prototyping15.jpg"
+	linkURL="images/prototyping15.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/prototyping16.jpg"
+	thumbURL="thumbs/prototyping16.jpg"
+	linkURL="images/prototyping16.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/prototyping17.jpg"
+	thumbURL="thumbs/prototyping17.jpg"
+	linkURL="images/prototyping17.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

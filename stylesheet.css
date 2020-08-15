@@ -1,0 +1,561 @@
+*
+{
+margin:0 auto 0 auto;
+text-align:left;
+}
+
+body
+{
+background:url(/images/background.jpg) no-repeat center center fixed;
+-webkit-background-size:cover; /* Saf3-4 */
+-moz-background-size:cover; /* FF1+ */
+-o-background-size:cover;
+background-size:cover; /* Opera 10.5, IE 9, Saf5, Chrome */
+background-color:black;
+font:14px Arial, sans-serif;
+color:black;
+}
+
+body div div
+{
+display:block;
+height:auto;
+position:relative;
+width:950px;
+}
+
+body div
+{
+width:100%;
+}
+
+#header
+{
+height:160px;
+background:transparent;
+}
+
+#header div
+{
+background:inherit;
+height:inherit;
+}
+
+#logo
+{
+height:160px;
+}
+
+#first-logo-head
+{
+width:200px;
+margin-bottom:5px;
+}
+
+#menu
+{
+z-index:9999999;
+background:black;
+margin-bottom:-35px;
+}
+
+#menu div
+{
+background:inherit;
+}
+
+#menu div #donate
+{
+float:right;
+margin-top:4px;
+}
+
+#menu div #blog
+{
+float:right;
+padding:10px;
+margin-right:10px;
+font-weight:bold;
+text-decoration:none;
+color:white;
+}
+
+#menu div #blog:hover
+{
+text-decoration:none;
+color:#EED7D7;
+}
+
+nav ul
+{
+list-style:none;
+width:auto;
+display:table-cell;
+padding:0px;
+text-align:left;
+margin:0;
+background:inherit;
+z-index:99999999;
+}
+
+nav ul li
+{
+z-index:999999999;
+font-weight:bold;
+margin-right:15px;
+float:left;
+display:inline-block;
+position:relative;
+color:white;
+padding-bottom:10px;
+padding-top:10px;
+}
+
+nav ul li:last-child
+{
+margin-right:0px;
+}
+
+nav ul li:first-child a
+{
+padding-left:0px;
+}
+
+nav ul li ul li:first-child a
+{
+padding-left:10px;
+}
+
+nav ul li a
+{
+text-decoration:none;
+color:white;
+padding:10px;
+}
+
+nav ul li:hover a
+{
+text-decoration:none;
+color:#EED7D7;
+}
+
+nav ul li:hover ul li a, nav ul li:active ul li a
+{
+text-decoration:none;
+color:white;
+display:block;
+width:100%;
+}
+
+nav ul li ul li:hover a
+{
+color:#EED7D7;
+}
+
+nav ul li ul
+{
+z-index:9999999999;
+padding:0;
+position:absolute;
+top:35px;
+left:0;
+display:none;
+opacity:0;
+visibility:hidden;
+background:black;
+}
+
+nav ul li ul li
+{
+z-index:99999999999;
+float:none;
+display:block;
+padding-bottom:0px;
+padding-top:0px;
+width:auto;
+min-width:100px;
+}
+
+nav ul li:hover ul, nav ul li:active ul
+{
+display:block;
+opacity:1;
+visibility:visible;
+}
+
+#content
+{
+margin-top:35px;
+}
+
+#content div
+{
+background:white;
+padding:15px;
+}
+
+#footer
+{
+background:black;
+}
+
+#footer div
+{
+background:inheirit;
+color:white;
+height:130px;
+padding:15px;
+line-height:20px;
+}
+
+#footer h2
+{
+line-height:30px;
+}
+
+#footer div table tr td
+{
+width:25%;
+vertical-align:top;
+}
+
+#footer div table tr td:nth-child(3)
+{
+width:30%;
+}
+
+#footer div table tr td:nth-child(4)
+{
+width:20%;
+}
+
+#footer div table tr td:nth-child(3) a img
+{
+float:left;
+margin-right:8px;
+}
+
+#footer div table tr td:nth-child(3) a img:last-child
+{
+float:none;
+margin-right:0px;
+}
+
+#copyright div p
+{
+font-size:12px;
+padding:10px;
+}
+
+a
+{
+text-decoration:none;
+color:#d1391e;
+cursor:pointer;
+}
+
+a:hover
+{
+text-decoration:underline;
+}
+
+.b
+{
+font-weight:bold;
+}
+
+.nob
+{
+font-weight:normal;
+}
+
+.i
+{
+font-style:italic;
+}
+
+.center
+{
+text-align:center;
+}
+
+.left
+{
+float:left;
+}
+
+.right
+{
+float:right;
+}
+
+.red
+{
+color:red;
+}
+
+.indent
+{
+margin-left:30px;
+}
+
+.link-no
+{
+text-decoration:none;
+color:black;
+}
+
+.link-no:hover
+{
+text-decoration:none;
+color:black;
+}
+
+.pointer-no, .pointer-no:hover
+{
+cursor:text;
+}
+
+#home tr td:nth-child(1)
+{
+width:50%;
+}
+
+#home tr td:nth-child(2), #home tr td:nth-child(3)
+{
+width:25%;
+}
+
+#home tr td:nth-child(2) a
+{
+text-decoration:none;
+}
+
+#home tr td:nth-child(2) a:hover
+{
+text-decoration:none;
+}
+
+#home tr td:nth-child(2) a h2
+{
+font-weight:normal;
+}
+
+#home tr td
+{
+vertical-align:top;
+}
+
+#home-sponsors tr td
+{
+width:150px;
+vertical-align:middle;
+}
+
+#home-sponsors tr td img
+{
+width:150px;
+}
+
+#news
+{
+width:50%;
+vertical-align:top;
+}
+
+#news h2 a
+{
+color:black;
+}
+
+#news h2 a:hover
+{
+text-decoration:none;
+}
+
+#robot
+{
+width:465px;
+vertical-align:top;
+}
+
+.top
+{
+vertical-align:top;
+}
+
+#robot-photo
+{
+height:240px;
+border:solid 1px black;
+float:right;
+}
+
+#first-logo-vert
+{
+width:200px;
+float:right;
+}
+
+#first-video
+{
+width:400px;
+height:250px;
+float:right;
+}
+
+#sponsors-thisSeason tr td
+{
+vertical-align:middle;
+}
+
+#sponsors-thisSeason tr td a img
+{
+width:316px;
+height:auto;
+}
+
+#past
+{
+display:none;
+}
+
+#past table tr td
+{
+width:316px;
+vertical-align:top;
+}
+
+#past table tr .space
+{
+font-size:5px;
+}
+
+#events tr td
+{
+vertical-align:top;
+}
+
+#events tr td:nth-child(2)
+{
+width:100%;
+}
+
+#events tr td h2
+{
+margin-top:16px;
+}
+
+#events tr td img
+{
+margin-top:16px;
+width:200px;
+height:140px;
+margin-right:10px;
+}
+
+#events tr td span
+{
+font-size:13px;
+}
+
+#events tr td b span
+{
+font-size:14px;
+}
+
+@font-face {
+font-family:myWickedCoolFont;
+src:url(/images/copperplate-gothic-light.ttf);
+}
+
+#subscribe
+{
+font-size:20px;
+font-weight:bold;
+font-family:myWickedCoolFont, Arial, sans-serif;
+color:white;
+text-align:center;
+text-decoration:none;
+display:block;
+margin-left:auto;
+margin-right:auto;
+width:250px;
+padding:15px;
+background-color:#750909;
+-moz-border-radius:12px; /* FF1+ */
+-webkit-border-radius:12px; /* Saf3-4 */
+border-radius:12px; /* Opera 10.5, IE 9, Saf5, Chrome */
+}
+
+#subscribe:hover
+{
+background-color:#d1391e;
+}
+
+#countdown
+{
+width:100%;
+display:block;
+font-weight:normal;
+text-align:center;
+}
+
+#donation-form p
+{
+margin-bottom:5px;
+}
+
+#donation-form span
+{
+color:red;
+}
+
+form input[type=text], form input[type=email], form select
+{
+padding:2px;
+border:1px solid #ccc;
+}
+
+form input[type=submit]
+{
+font-size:15px;
+color:white;
+font-weight:bold;
+padding:4px 12px;
+background-color:#750909;
+border:0 none;
+cursor:pointer;
+-webkit-border-radius:4px;
+border-radius:4px;
+}
+
+form input[type=submit]:hover
+{
+background-color:#d1391e;
+}
+
+#donate-subscribe
+{
+width:465px;
+vertical-align:top;
+}
+
+#donate-subscribe form p
+{
+margin-bottom:5px;
+}
+
+#donate-table tr td
+{
+width:33%;
+text-align:center;
+vertical-align:middle;
+}
+
+#donate-table tr td a img
+{
+width:200px;
+margin-left:10px;
+margin-right:10px;
+}

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	galleryStyle="CLASSIC"
+	backgroundColor="FFFFFF"
+	frameColor="000000"
+	thumbPosition="BOTTOM"
+	thumbColumns="10"
+	thumbRows="1"
+	showOpenButton="false"
+	indexPageName="page.html"
+
+>
+  <image imageURL="images/Copy of WP_20150921_010.jpg"
+	thumbURL="thumbs/Copy of WP_20150921_010.jpg"
+	linkURL="images/Copy of WP_20150921_010.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of WP_20150921_017.jpg"
+	thumbURL="thumbs/Copy of WP_20150921_017.jpg"
+	linkURL="images/Copy of WP_20150921_017.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of WP_20150921_021.jpg"
+	thumbURL="thumbs/Copy of WP_20150921_021.jpg"
+	linkURL="images/Copy of WP_20150921_021.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of WP_20150921_043.jpg"
+	thumbURL="thumbs/Copy of WP_20150921_043.jpg"
+	linkURL="images/Copy of WP_20150921_043.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of WP_20150921_059.jpg"
+	thumbURL="thumbs/Copy of WP_20150921_059.jpg"
+	linkURL="images/Copy of WP_20150921_059.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of WP_20150921_064.jpg"
+	thumbURL="thumbs/Copy of WP_20150921_064.jpg"
+	linkURL="images/Copy of WP_20150921_064.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of WP_20150921_069.jpg"
+	thumbURL="thumbs/Copy of WP_20150921_069.jpg"
+	linkURL="images/Copy of WP_20150921_069.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of WP_20150921_074.jpg"
+	thumbURL="thumbs/Copy of WP_20150921_074.jpg"
+	linkURL="images/Copy of WP_20150921_074.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of WP_20150921_076.jpg"
+	thumbURL="thumbs/Copy of WP_20150921_076.jpg"
+	linkURL="images/Copy of WP_20150921_076.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Copy of WP_20150921_078.jpg"
+	thumbURL="thumbs/Copy of WP_20150921_078.jpg"
+	linkURL="images/Copy of WP_20150921_078.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/WP_20150921_001.jpg"
+	thumbURL="thumbs/WP_20150921_001.jpg"
+	linkURL="images/WP_20150921_001.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/WP_20150921_003.jpg"
+	thumbURL="thumbs/WP_20150921_003.jpg"
+	linkURL="images/WP_20150921_003.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

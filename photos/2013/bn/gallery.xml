@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	resizeOnImport="false"
+	useFlickr="false"
+	cropToFit="false"
+	thumbPosition="BOTTOM"
+	indexPageName="page.html"
+	backgroundTransparent="true"
+	showOpenButton="false"
+	thumbColumns="10"
+	thumbRows="1"
+	frameColor="000000"
+	galleryStyle="CLASSIC"
+
+>
+  <image imageURL="images/DSC_0286.jpg"
+	thumbURL="thumbs/DSC_0286.jpg"
+	linkURL="images/DSC_0286.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0288.jpg"
+	thumbURL="thumbs/DSC_0288.jpg"
+	linkURL="images/DSC_0288.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0289.jpg"
+	thumbURL="thumbs/DSC_0289.jpg"
+	linkURL="images/DSC_0289.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0290.jpg"
+	thumbURL="thumbs/DSC_0290.jpg"
+	linkURL="images/DSC_0290.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0291.jpg"
+	thumbURL="thumbs/DSC_0291.jpg"
+	linkURL="images/DSC_0291.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0292.jpg"
+	thumbURL="thumbs/DSC_0292.jpg"
+	linkURL="images/DSC_0292.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0293.jpg"
+	thumbURL="thumbs/DSC_0293.jpg"
+	linkURL="images/DSC_0293.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0294.jpg"
+	thumbURL="thumbs/DSC_0294.jpg"
+	linkURL="images/DSC_0294.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0295.jpg"
+	thumbURL="thumbs/DSC_0295.jpg"
+	linkURL="images/DSC_0295.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0296.jpg"
+	thumbURL="thumbs/DSC_0296.jpg"
+	linkURL="images/DSC_0296.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0298.jpg"
+	thumbURL="thumbs/DSC_0298.jpg"
+	linkURL="images/DSC_0298.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0299.jpg"
+	thumbURL="thumbs/DSC_0299.jpg"
+	linkURL="images/DSC_0299.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0300.jpg"
+	thumbURL="thumbs/DSC_0300.jpg"
+	linkURL="images/DSC_0300.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0302.jpg"
+	thumbURL="thumbs/DSC_0302.jpg"
+	linkURL="images/DSC_0302.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0305.jpg"
+	thumbURL="thumbs/DSC_0305.jpg"
+	linkURL="images/DSC_0305.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0307.jpg"
+	thumbURL="thumbs/DSC_0307.jpg"
+	linkURL="images/DSC_0307.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0314.jpg"
+	thumbURL="thumbs/DSC_0314.jpg"
+	linkURL="images/DSC_0314.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>
